@@ -1,0 +1,68 @@
+.top{
+    border: 1px solid red;
+    height: 70px;
+    background-color: red;
+}
+
+.logo{
+    display: inline;
+
+}
+
+
+h1{
+    color:red;
+}
+a.link1:hover{
+    text-decoration: none;
+    color:white;
+}
+a.link1{
+    margin-top:20px;
+    color: white;
+    text-decoration: none;
+    margin-left: 45px;
+
+
+/* margin-top: 1px; */
+/* padding-top: 20px; */
+}
+nav{
+    margin-top:20px;
+    font-size:18px;
+}
+nav:last-child{
+   text-decoration: blink;
+}
+div form input{
+    margin-top:20px;
+    width: 330px;
+    height: 40px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+div .business-unit{
+    font-size: 30px;
+    color: rgb(136 136 136);
+
+}
+.business{
+    border:1px solid black;
+    height: 150px;
+    width: 300px;
+    background-color: rgb(249,245,245);
+
+}
+.submit{
+margin-top:20px;
+    height:25px;
+
+    background-color: white;
+}
+input .input-font{
+    font-size: large;
+
+}
+span.error{
+    color:red;
+}
